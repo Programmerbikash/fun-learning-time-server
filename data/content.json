@@ -198,6 +198,8 @@
     "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 127,
+    "time": 8,
+    "lectures": "16",
     "title": "6 things to practice every day to improve your english communication skills.",
     "author": {
       "name": "Ukrainska Pravda",
@@ -218,6 +220,8 @@
     "category_id": "02",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 700,
+    "time": 31,
+    "lectures": "53",
     "title": "Students will learn the basics of reading individual words, phrases, and sentences as a beginner reader.",
     "author": {
       "name": "Daniel Deangelo",
@@ -237,6 +241,8 @@
     "category_id": "07",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 300,
+    "time": 32,
+    "lectures": "48",
     "title": "Joe Biden announces $3B in new military aid to Ukraine",
     "author": {
       "name": "",
@@ -256,6 +262,8 @@
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 320,
+    "time": 23,
+    "lectures": "42",
     "title": "Transformation of the sentences 1. English Grammar Topics List PDF",
     "author": {
       "name": "John Pike",
@@ -275,6 +283,8 @@
     "category_id": "02",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 552,
+    "time": 32,
+    "lectures": "63",
     "title": "Students will learn to become a fully proficient reader in the English language.",
     "author": {
       "name": "system",
@@ -294,6 +304,8 @@
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 89,
+    "time": 42,
+    "lectures": "67",
     "title": "The same word used as different parts of speech. English Grammar Topics List PDF",
     "author": {
       "name": "MarketScreener",
@@ -313,6 +325,8 @@
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 798,
+    "time": 34,
+    "lectures": "53",
     "title": "Conditionals: Definition, Structure & ExamplesTypes of Conditionals",
     "author": {
       "name": "system",
@@ -332,6 +346,8 @@
     "category_id": "03",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 879,
+    "time": 18,
+    "lectures": "37",
     "title": "English freehand writing skill develepment. Basic to advance.",
     "author": {
       "name": "RTTNews",
@@ -351,6 +367,8 @@
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 231,
+    "time": 9,
+    "lectures": "14",
     "title": "Subject-Verb Agreement: Rules & Examples",
     "author": {
       "name": "Kumar Natasha",
@@ -370,6 +388,8 @@
     "category_id": "02",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 546,
+    "time": 25,
+    "lectures": "48",
     "title": "Improved English Reading Comprehension",
     "author": {
       "name": "The Philadelphia Inquirer",
@@ -389,6 +409,8 @@
     "category_id": "03",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 1870,
+    "time": 22,
+    "lectures": "45",
     "title": "Anyone can write good english, just take care of these few simple tings",
     "author": {
       "name": "system",
@@ -409,6 +431,8 @@
     "category_id": "07",
     "rating": { "number": 4.2, "badge": "Excellent" },
     "total_view": 354,
+    "time": 20,
+    "lectures": "42",
     "title": "‘Self-obsessed liar’: Meghan mocked for Mandela story",
     "author": {
       "name": "Presstv",
@@ -427,7 +451,8 @@
     },
     "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
-
+    "time": 10,
+    "lectures": "22",
     "total_view": 100,
     "title": "3 Hours of english conversation practice improve speaking skills",
     "author": {
@@ -447,7 +472,8 @@
     },
     "category_id": "04",
     "rating": { "number": 4.5, "badge": "Excellent" },
-
+    "time": 15,
+    "lectures": "32",
     "total_view": 100,
     "title": "Do this to improve your speaking and listening skills",
     "author": {

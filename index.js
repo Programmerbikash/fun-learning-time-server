@@ -23,6 +23,18 @@ app.get('/category/:id', (req, res) => {
     res.send(newsSellect);
 })
 
+app.get('/newsCategory/:id', (req, res) => {
+    const id = req.params.id;
+    const newsSellect = details.find(news => news._id === id);
+    res.send(newsSellect);
+})
+
+app.get('/login/:id', (req, res) => {
+    const id = req.params.id;
+    const newsSellect = details.find(news => news._id === id);
+    res.send(newsSellect);
+})
+
 app.get('/details', (req, res) => {
     res.send(details);
 })
